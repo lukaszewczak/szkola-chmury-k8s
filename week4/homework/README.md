@@ -168,7 +168,7 @@ controller-manager   Unhealthy   Get http://127.0.0.1:10252/healthz: dial tcp 12
 etcd-0               Healthy     {"health": "true"}
 ```
 
-`kubectl api-versions` - pokażd listę użytych wersji API
+`kubectl api-versions` - pokaż listę użytych wersji API
 
 ```
 kubectl api-versions
