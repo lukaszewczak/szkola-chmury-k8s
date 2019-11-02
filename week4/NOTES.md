@@ -56,6 +56,8 @@ Zarządzanie kontenerami w ramach klastra, dbanie o zasoby w klastrze, deploymen
 
 `kubectl api-versions`
 
+`kubectl api-resources` - pokaż dostępne zasoby/obiekty
+
 `kubectl config view` - może pokazać m.in informację do jakich klastrów mam dostęp
 
 `kubectl config set-context aks02` - pozwala przełączać się miedzy różnymi klastrami
